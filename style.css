@@ -14,6 +14,7 @@ h1 {
 	margin: 30px auto;
 	padding: 30px;
 	border: 1px solid #ccc;
+	background-color: black;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
