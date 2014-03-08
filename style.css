@@ -1,5 +1,6 @@
 body {
 	font-family: arial, sans-serif;
+	backgroubd: purple;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h1 {
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 
-	-webkit-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 3px 3px 10px rgba(#ffff);
 	-moz-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
