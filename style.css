@@ -1,10 +1,12 @@
 body {
-	font-family: arial, sans-serif;
+	font-family: Helvetica, sans-serif;
+	color: white;
+	background: purple;
 }
 
 h1 {
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 100px;
 	margin: 0 0 1em;
 }
 
@@ -12,12 +14,12 @@ h1 {
 	width: 500px;
 	margin: 30px auto;
 	padding: 30px;
-	border: 1px solid #ccc;
+	background-color: black;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 
-	-webkit-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 3px 3px 10px rgba(#ffff);
 	-moz-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
