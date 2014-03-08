@@ -10,6 +10,10 @@ h1 {
 	margin: 0 0 1em;
 }
 
+span {
+	color: green;
+	font-weight: bold;
+}
 #page {
 	width: 500px;
 	margin: 30px auto;
